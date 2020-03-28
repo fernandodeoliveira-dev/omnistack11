@@ -10,7 +10,7 @@ $ yarn global remove create-react-app <br />
 -> Query Params: parâmetros nomeados enviados na rota após o "?" (filtros, paginação - request.query) <br />
 -> Route Params: parâmetros utilizados para identificar recursos (request.params) <br />
 -> Request Body (request.body) <br />
-## <br />
+## Node <br />
 $ npm install nodemon <br />
 $ npm start <br />
 ## KNEX JS <br />
