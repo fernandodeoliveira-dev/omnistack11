@@ -1,10 +1,10 @@
 ## Frontend
 
-$ npm start
-$ npm cache clean --force
-$ npm install react-icons
-$ npm install react-router-dom
+$ npm start <br />
+$ npm cache clean --force <br />
+$ npm install react-icons <br />
+$ npm install react-router-dom <br />
 
-$ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+$ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p <br />
 
-$ npm install axios
+$ npm install axios <br />
